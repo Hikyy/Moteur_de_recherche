@@ -1,0 +1,48 @@
+/* Mon CSS à moi */
+ 
+/* body{
+    background-color: #FFFCF7;
+    background-size: 100% 740px;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    background-repeat: no-repeat;
+    justify-content: center;
+    margin: auto;
+} */
+body{
+    background-color: black;
+}
+
+
+.container{
+
+
+    border-radius: 6px;
+}
+
+.card-body{
+    overflow-y: scroll;
+    scrollbar-width: thin;
+    height: 465px;
+}
+
+.test{
+    background-image: url('./Group\ 4.png');
+    width: 95vw;
+    height: 92vh;
+    display: flex;
+    align-items: center;
+}
+
+nav{
+    
+}
+
+.white{
+    color: white;
+}
+h5{
+    font-weight: 600;
+}
