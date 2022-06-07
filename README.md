@@ -4,7 +4,7 @@
 
 ## Présentation
 
-1. Permet de rechercher un animé en particulier au travers du API.
+1. Permet de rechercher un animé en particulier au travers d'une API.
 
 2. Affiche les résultats de la recherche
 
