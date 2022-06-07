@@ -21,4 +21,4 @@ Utilisation :
 
 - Ajax pour effectuer une requête pour la récupération des données de l'API sans effectuer de rafraîchissement.
 
-- JavaScript pour traiter le contenu de la requête des messages. L'aspect visuel et l'interaction des éléments cachés. La création de nouvelle bulle (div) à chaque nouveau message. La recherche d'un message effectué avec un utilisateur.
+- JavaScript pour traiter le contenu de la requête des animés. L'aspect visuel et l'interaction des éléments cachés. La création de nouvelle bulle (div) à chaque nouvelle animé.
